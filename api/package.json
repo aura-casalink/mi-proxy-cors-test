@@ -4,5 +4,9 @@
   "main": "api/proxy.js",
   "dependencies": {
     "uuid": "^9.0.1"
+    "open-graph-scraper": "^4.9.0",
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer-core": "^19.8.0",
+    "node-fetch": "^3.2.10"
   }
 }
