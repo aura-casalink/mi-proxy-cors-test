@@ -14,7 +14,7 @@ export default async function handler(req, res) {
   }
 
   try {
-    const targetUrl = 'https://luci-aura.app.n8n.cloud/webhook/7b4d7865-7137-4a5e-8829-061ed33b2435/chat';
+    const targetUrl = 'https://luci-aura.app.n8n.cloud/webhook/c8d88970-836a-4d79-be5a-bb8e2ce99c58/chat';
 
     const requestBody = {
       ...req.body,
