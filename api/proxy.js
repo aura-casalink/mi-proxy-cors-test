@@ -1,7 +1,7 @@
 import { v4 as uuidv4 } from 'uuid';
 
 export default async function handler(req, res) {
-  res.setHeader('Access-Control-Allow-Origin', 'https://auratest.carrd.co/');
+  res.setHeader('Access-Control-Allow-Origin', 'https://auratest.carrd.co');
   res.setHeader('Access-Control-Allow-Methods', 'POST, OPTIONS');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
 
