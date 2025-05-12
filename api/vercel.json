@@ -4,6 +4,7 @@
     {
       "src": "/api/proxy",
       "dest": "/api/proxy.js"
-    }
+    },
+    { "src": "/api/preview", "dest": "/api/preview.js" }
   ]
 }
